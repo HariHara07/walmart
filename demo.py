@@ -5,3 +5,5 @@ Demo file
 Nellore 
 current location Hyderabd
 Hi I'm working in HUL from 2018
+
+right now I'm practicing DevOps
